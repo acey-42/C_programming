@@ -104,28 +104,28 @@
 
 10-11. В main появился свой новый коммит, независимый от mybranch.
 
-![!\[alt text\](../Screenshots/26_git_log.png)](../Screenshots/26_git_log.png)
+![alt text](../Screenshots/26_git_log.png)
 
 12. У main и mybranch теперь разные последние коммиты.
 
-![!\[alt text\](../Screenshots/27_switch.png)](../Screenshots/27_switch.png)
+![alt text](../Screenshots/27_switch.png)
 
 13. Вернулись на ветку mybranch.
 14. file2.txt пропал: он закоммичен только в main. При переключении git подставляет содержимое выбранной ветки.
 
-![!\[alt text\](../Screenshots/28_git_diff.png)](../Screenshots/28_git_diff.png)
+![alt text](../Screenshots/28_git_diff.png)
 
 15. Строки с - есть в mybranch, строки с + есть в main. Видно, что file1.txt есть только в mybranch, а file2.txt только в main.
 
-![!\[alt text\](../Screenshots/29_screenshot.png)](../Screenshots/29_screenshot.png)
-![!\[alt text\](../Screenshots/30_add_commit_push.png)](../Screenshots/30_add_commit_push.png)
+![alt text](../Screenshots/29_screenshot.png)
+![alt text](../Screenshots/30_add_commit_push.png)
 
 16. Добавил, закоммитил и отправил под новой веткой.
 
-![!\[alt text\](../Screenshots/31_push.png)](../Screenshots/31_push.png)
+![alt text](../Screenshots/31_push.png)
 
 17. Вернулся в main и запушил.
 
-![!\[alt text\](../Screenshots/32_branch.png)](../Screenshots/32_branch.png)
+![alt text](../Screenshots/32_branch.png)
 
-Всё на месте! 
+Всё на месте!
